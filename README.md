@@ -5,7 +5,7 @@ Online Flask Web App for Plant Disease Diagnosis from Images <br>
 
 ## Required Tools
 ```
-Python 3.6 or greater, Tensorflow 2, Flask, Gevent, Scikit-Learn
+Python 3.8.10 or greater, Tensorflow 2, Flask, Gevent, Scikit-Learn
 ```
 
 ## Run
@@ -13,17 +13,6 @@ Python 3.6 or greater, Tensorflow 2, Flask, Gevent, Scikit-Learn
 flask run
 ```
 
-Open Browser at http://121.0.0.1:5000
-
-## Dataset
-
-https://www.kaggle.com/emmarex/plantdisease
-
-
-## Implementation
-
-
-https://www.kaggle.com/shawon10/plant-disease-classification-using-densenet121
-
+Open Browser at http://121.0.0.1:5002
 
 
